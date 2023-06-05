@@ -18,5 +18,7 @@ EditorBuildSettings:
     path: Assets/Karting/Scenes/WinScene.unity
     guid: d6801f2e59f75ee4b919cf5da4e48e3b
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e574aea78e0884ce9b5a51d461f01204,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: efe29c3fb358e44809e04aaffccc3aa5,
       type: 2}
